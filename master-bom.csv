@@ -1,0 +1,6 @@
+Item,Part,Description,Manufacturer,MPN,Supplier,Supplier SKU,Qty,Unit Cost,Currency,Link,Notes
+1,MCU,Microcontroller board,,,,,1,,,,
+2,Actuator,Servo or actuator,,,,,1,,,,
+3,Switch,Toggle/limit switch,,,,,1,,,,
+4,Power,Power input/regulation,,,,,1,,,,
+5,Fasteners,Screws/nuts/spacers,,,,,1,,,,

@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Python/cache
+__pycache__/
+*.pyc
+.venv/
+
+# KiCad and EDA artifacts
+*.kicad_prl
+*.kicad_pro-bak
+*-backups/
+fp-info-cache
+
+# CAD/temp and exports
+*.bak
+*.tmp
+*.swp
+
+# Build outputs
+build/
+dist/
