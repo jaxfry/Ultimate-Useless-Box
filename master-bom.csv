@@ -1,8 +1,9 @@
 Item,Part,Description,Manufacturer,MPN,Supplier,Supplier SKU,Qty,Unit Cost,Currency,Link,Notes
-1,ESP32-S3-Dev-KitC-1,The brains of the project,Espressif,ESP32-S3-N16R8,AliExpress,1005005481618843,1,8.89,USD,https://www.aliexpress.com/item/1005005481618843.html?afTraceInfo=1005005481618843__pc__c_ppc_item_bridge_pc_main__YlERHUT__1772823584525,ESP32-S3-n16r8 n8r2 WiFi Bluetooth-compatible BLE 5.0 Mesh Development Board
-2,Actuator,Servo or actuator,,,,,1,,,,
-3,Switch,Toggle/limit switch,,,,,1,,,,
-4,Power,Power input/regulation,,,,,1,,,,
-5,Fasteners,Screws/nuts/spacers,,,,,1,,,,
-6,TP4056 Charger Module,Micro Mini Type-C USB 5V 1A 18650 Lithium Battery Charger Module with Protection Dual Functions,,TP4056,AliExpress,32621399438,1,1.91,USD,https://www.aliexpress.com/item/32621399438.html,1-5 pcs Micro Mini Type-C USB 5V 1A 18650 TP4056 Lithium Battery Charger Module Charging Board With Protection Dual Functions
-7,0.96 inch OLED Display,For extra fun >:) It's a screen.,,,SSD1306,AliExpress,,1,2.69,USD,https://www.aliexpress.com/item/1005006141235306.html?afSmartRedirect=y&tt=CPS_NORMAL&af=1010595&afref=https%3A%2F%2Fc2.account.push4extension.com%2F&cv=47843&afSmartRedirect=y#nav-specification,1-10pcs Original 0.96 inch oled IIC Serial White OLED Display Module 128X64 I2C SSD1306 12864 LCD Screen Board For Arduino
+1,ESP32-S3-Dev-KitC-1,The brains of the project,Espressif,ESP32-S3-N16R8,AliExpress,1005005481618843,1,8.89,USD,https://www.aliexpress.com/item/1005005481618843.html,ESP32-S3-N16R8 WiFi BLE 5.0 Mesh Dev Board
+2,Actuator,Servo or actuator,,,,,,,,,,TBD
+3,Switch,Toggle/limit switch,,,,,,,,,,TBD
+4,Power,Power input/regulation,,,,,,,,,,TBD
+5,Fasteners,Screws/nuts/spacers,,,,,,,,,,TBD
+6,TP4056 Charger Module,USB-C 5V 1A 18650 Li Battery Charger with Protection,,TP4056,AliExpress,32621399438,1,1.91,USD,https://www.aliexpress.com/item/32621399438.html,Charging board with dual protection functions
+7,0.96" OLED Display,128x64 I2C OLED Display Module,,SSD1306,AliExpress,1005006141235306,1,2.69,USD,https://www.aliexpress.com/item/1005006141235306.html,For extra fun >:) It's a screen
+8,ToF Ranging Sensor,Time of Flight Laser Ranging Sensor Module,,TBD (VL6180/VL53L0X/VL53L1X),AliExpress,1005006148761687,1,4.93,USD,https://www.aliexpress.com/item/1005006148761687.html,For detecting hands. Choose variant: TOF050C (50cm) / TOF200C (2m) / TOF400C (4m)
