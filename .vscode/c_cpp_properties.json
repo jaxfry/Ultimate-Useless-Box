@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "name": "ESP32-S3-PlatformIO",
+      "compilerPath": "/usr/bin/clang++",
+      "intelliSenseMode": "macos-clang-arm64",
+      "cStandard": "c11",
+      "cppStandard": "gnu++11",
+      "compileCommands": "${workspaceFolder}/code/firmware/compile_commands.json",
+      "defines": [
+        "PLATFORMIO=60119",
+        "ARDUINO=10812",
+        "ARDUINO_ARCH_ESP32",
+        "ARDUINO_ESP32S3_DEV",
+        "ESP32"
+      ],
+      "includePath": [
+        "${workspaceFolder}/code/firmware/include",
+        "${workspaceFolder}/code/firmware/src",
+        "${workspaceFolder}/code/firmware/.pio/libdeps/esp32-s3-devkitc-1/**",
+        "${env:HOME}/.platformio/packages/framework-arduinoespressif32/cores/esp32",
+        "${env:HOME}/.platformio/packages/framework-arduinoespressif32/variants/esp32s3",
+        "${env:HOME}/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/**"
+      ]
+    }
+  ],
+  "version": 4
+}

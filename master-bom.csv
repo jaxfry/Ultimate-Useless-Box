@@ -1,9 +1,0 @@
-Item,Part,Description,Manufacturer,MPN,Supplier,Supplier SKU,Qty,Unit Cost,Currency,Link,Notes
-1,ESP32-S3-Dev-KitC-1,The brains of the project,Espressif,ESP32-S3-N16R8,AliExpress,1005005481618843,1,8.89,USD,https://www.aliexpress.com/item/1005005481618843.html,ESP32-S3-N16R8 WiFi BLE 5.0 Mesh Dev Board
-2,Actuator,Servo or actuator,,,,,,,,,,TBD
-3,Miniature Toggle Switch,The main switch,,MTS-102/103/202/203,AliExpress,1005008778471415,1,4.50,USD,https://www.aliexpress.com/i/1005008778471415.html?af=1010595&afref=https%3A%2F%2Fc2.account.push4extension.com%2F&cv=47843,10pc lot; choose ON-OFF-ON or ON-ON variant with 3-pin or 6-pin terminals
-4,Mini Slide Switch,To turn the box on and off,,SS12D00,AliExpress,1005005633418066,1,1.86,USD,https://www.aliexpress.com/item/1005005633418066.html?afSmartRedirect=y&tt=CPS_NORMAL&af=1010595&afref=https%3A%2F%2Fc2.account.push4extension.com%2F&cv=47843&afSmartRedirect=y,20pc lot; 3-pin 1P2T 2-position; select handle length 3mm/4mm/5mm/6mm
-5,Fasteners,Screws/nuts/spacers,,,,,,,,,,TBD
-6,TP4056 Charger Module,USB-C 5V 1A 18650 Li Battery Charger with Protection,,TP4056,AliExpress,32621399438,1,1.91,USD,https://www.aliexpress.com/item/32621399438.html,Charging board with dual protection functions
-7,0.96" OLED Display,128x64 I2C OLED Display Module,,SSD1306,AliExpress,1005006141235306,1,2.69,USD,https://www.aliexpress.com/item/1005006141235306.html,For extra fun >:) It's a screen
-8,ToF Ranging Sensor,Time of Flight Laser Ranging Sensor Module,,TBD (VL6180/VL53L0X/VL53L1X),AliExpress,1005006148761687,1,4.93,USD,https://www.aliexpress.com/item/1005006148761687.html,For detecting hands. Choose variant: TOF050C (50cm) / TOF200C (2m) / TOF400C (4m)

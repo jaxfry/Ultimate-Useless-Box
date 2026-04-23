@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "author": "GitHub Copilot",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "board-esp32-s3-devkitc-1",
+      "id": "esp",
+      "top": 0,
+      "left": 0,
+      "attrs": {}
+    },
+    {
+      "type": "board-ssd1306",
+      "id": "oled",
+      "top": 120,
+      "left": 230,
+      "attrs": {
+        "i2cAddress": "0x3c"
+      }
+    },
+    {
+      "type": "wokwi-servo",
+      "id": "servo",
+      "top": -120,
+      "left": 230,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-servo",
+      "id": "switch_hide_servo",
+      "top": -120,
+      "left": 360,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-slide-switch",
+      "id": "main_switch",
+      "top": -60,
+      "left": -100,
+      "attrs": {}
+    }
+  ],
+  "connections": [
+    [ "esp:2", "oled:SDA", "green", [ "v0" ] ],
+    [ "esp:12", "oled:SCL", "blue", [ "v0" ] ],
+    [ "esp:GND.1", "oled:GND", "black", [ "v0" ] ],
+    [ "esp:3V3", "oled:VCC", "red", [ "v0" ] ],
+    
+    [ "esp:4", "servo:PWM", "orange", [ "v0" ] ],
+    [ "esp:GND.2", "servo:GND", "black", [ "v0" ] ],
+    [ "esp:5V", "servo:V+", "red", [ "v0" ] ],
+
+    [ "esp:8", "switch_hide_servo:PWM", "orange", [ "v0" ] ],
+    [ "esp:GND.5", "switch_hide_servo:GND", "black", [ "v0" ] ],
+    [ "esp:5V", "switch_hide_servo:V+", "red", [ "v0" ] ],
+    
+    [ "esp:1", "main_switch:2", "green", [ "v0" ] ],
+    [ "esp:GND.3", "main_switch:1", "black", [ "v0" ] ]
+  ],
+  "dependencies": {}
+}
