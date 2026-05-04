@@ -80,7 +80,7 @@ When I saw that video many years ago, I realized I wanted my own useless box. Th
 
 ### Custom PCB
 <div align="center">
-  <img src="assets/images/photos/pcb.png" width="45%" alt="PCB Front" /> 
+  <img src="assets/images/photos/pcb.png" width="45%" alt="PCB Front" />
   <img src="assets/images/photos/pcb3d.png" width="45%" alt="PCB 3D View" />
 </div>
 
@@ -88,6 +88,7 @@ When I saw that video many years ago, I realized I wanted my own useless box. Th
 <h2 id="gallery--renders">Gallery & Renders</h2>
 
 <div align="center">
+  <img src="assets/images/photos/cutSide.png" width="45%" alt="Cut Side Photo" />
   <img src="assets/images/renders/Useless_Box_Master_Assembly_2026-Apr-23_04-14-33AM-000_CustomizedView27976062760_png.png" width="45%" alt="Render View 1" />
   <img src="assets/images/renders/Useless_Box_Master_Assembly_2026-Apr-23_04-11-53AM-000_CustomizedView12176126467_mp4.gif" width="45%" alt="Animated Render 1" />
   <img src="assets/images/renders/Useless_Box_Master_Assembly_2026-Apr-23_05-17-29AM-000_CustomizedView3936447915_png.png" width="45%" alt="Render View 3" />
@@ -119,7 +120,7 @@ It should be pretty easy, the PCB has labeled connectors for what you need to pl
 [issues-shield]: https://img.shields.io/github/issues/jaxfry/Ultimate-Useless-Box.svg?style=for-the-badge
 [issues-url]: https://github.com/jaxfry/Ultimate-Useless-Box/issues
 [license-shield]: https://img.shields.io/github/license/jaxfry/Ultimate-Useless-Box.svg?style=for-the-badge
-[license-url]: https://github.com/jaxfry/Ultimate-Useless-Box/blob/main/LICENSE.txt 
+[license-url]: https://github.com/jaxfry/Ultimate-Useless-Box/blob/main/LICENSE.txt
 
 
 
