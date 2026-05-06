@@ -82,6 +82,7 @@ When I saw that video many years ago, I realized I wanted my own useless box. Th
 <div align="center">
   <img src="assets/images/photos/pcb.png" width="45%" alt="PCB Front" />
   <img src="assets/images/photos/pcb3d.png" width="45%" alt="PCB 3D View" />
+    <img src="assets/images/photos/schematic.png" width="45%" alt="Schematic Diagram" />
 </div>
 
 <!-- GALLERY -->
@@ -89,7 +90,6 @@ When I saw that video many years ago, I realized I wanted my own useless box. Th
 
 <div align="center">
   <img src="assets/images/photos/cutSide.png" width="45%" alt="Cut Side Photo" />
-  <img src="assets/images/photos/schematic.png" width="45%" alt="Schematic Diagram" />
   <img src="assets/images/renders/Useless_Box_Master_Assembly_2026-Apr-23_04-14-33AM-000_CustomizedView27976062760_png.png" width="45%" alt="Render View 1" />
   <img src="assets/images/renders/Useless_Box_Master_Assembly_2026-Apr-23_04-11-53AM-000_CustomizedView12176126467_mp4.gif" width="45%" alt="Animated Render 1" />
   <img src="assets/images/renders/Useless_Box_Master_Assembly_2026-Apr-23_05-17-29AM-000_CustomizedView3936447915_png.png" width="45%" alt="Render View 3" />
